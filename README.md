@@ -23,10 +23,3 @@ Este projeto HTML simples tem como objetivo criar uma página web que permita a 
 1. **Clonar o repositório:** Clone este repositório para sua máquina local.
 2. **Abrir em um editor de código:** Abra os arquivos em seu editor de código preferido.
 3. **Iniciar um servidor local:** Utilize um servidor local (como o Live Server do Visual Studio Code) para visualizar a página.
-
-### **Próximos Passos**
-
-* **Completar os arquivos JavaScript:** Implementar a lógica completa da pesquisa nos arquivos `dados.js` e `app.js`.
-* **Adicionar mais funcionalidades:** Implementar filtros adicionais, ordenação de resultados, etc.
-* **Melhorar a interface do usuário:** Utilizar CSS para criar uma interface mais atraente e intuitiva.
-* **Implementar responsividade:** Adaptar a página para diferentes tamanhos de tela.
