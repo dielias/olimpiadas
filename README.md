@@ -8,7 +8,7 @@ Este projeto HTML simples tem como objetivo criar uma página web que permita a 
 ### **Tecnologias Utilizadas**
 
 * **HTML:** Estrutura básica da página web.
-* **CSS:** Estilização da página (arquivo `style.css` não incluso neste exemplo).
+* **CSS:** Estilização da página.
 * **JavaScript:** Lógica da aplicação, incluindo a função de pesquisa e a manipulação do DOM (arquivos `dados.js` e `app.js` não inclusos neste exemplo).
 
 ### **Estrutura de Arquivos**
